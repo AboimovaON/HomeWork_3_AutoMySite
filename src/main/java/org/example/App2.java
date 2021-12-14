@@ -39,12 +39,7 @@ public class App2 {
 
         Assert.assertNotNull(driver.findElement(By.xpath("//*[@class='tline']")));
 
-
-
-
         driver.quit();
-
-
 
     }
 }
